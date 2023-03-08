@@ -1,4 +1,4 @@
-package com.github.dayux.shrektheme
+package com.github.dayux.codeasyouare
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

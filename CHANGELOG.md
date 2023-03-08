@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# shrek-theme Changelog
+# CodeAsYouAre Changelog
 
 ## [Unreleased]
 ### Added

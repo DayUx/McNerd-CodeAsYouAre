@@ -1,7 +1,7 @@
-package com.github.dayux.shrektheme.services
+package com.github.dayux.codeasyouare.services
 
 import com.intellij.openapi.project.Project
-import com.github.dayux.shrektheme.MyBundle
+import com.github.dayux.codeasyouare.MyBundle
 
 class MyProjectService(project: Project) {
 

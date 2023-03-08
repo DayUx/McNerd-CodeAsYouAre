@@ -1,9 +1,9 @@
-package com.github.dayux.shrektheme.listeners
+package com.github.dayux.codeasyouare.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import com.github.dayux.shrektheme.services.MyProjectService
+import com.github.dayux.codeasyouare.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

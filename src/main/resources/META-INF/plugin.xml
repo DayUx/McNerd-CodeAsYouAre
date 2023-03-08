@@ -1,18 +1,18 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.dayux.shrektheme</id>
-    <name>IntelliJ Platform Plugin shrek-theme</name>
+    <id>com.github.dayux.codeasyouare</id>
+    <name>IntelliJ Platform Plugin CodeAsYouAre</name>
     <vendor>dayux</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.dayux.shrektheme.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.dayux.shrektheme.services.MyProjectService"/>
+        <applicationService serviceImplementation="com.github.dayux.codeasyouare.services.MyApplicationService"/>
+        <projectService serviceImplementation="com.github.dayux.codeasyouare.services.MyProjectService"/>
     </extensions>
 
     <applicationListeners>
-        <listener class="com.github.dayux.shrektheme.listeners.MyProjectManagerListener"
+        <listener class="com.github.dayux.codeasyouare.listeners.MyProjectManagerListener"
                   topic="com.intellij.openapi.project.ProjectManagerListener"/>
     </applicationListeners>
 </idea-plugin>

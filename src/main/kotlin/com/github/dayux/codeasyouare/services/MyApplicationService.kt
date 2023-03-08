@@ -1,6 +1,6 @@
-package com.github.dayux.shrektheme.services
+package com.github.dayux.codeasyouare.services
 
-import com.github.dayux.shrektheme.MyBundle
+import com.github.dayux.codeasyouare.MyBundle
 
 class MyApplicationService {
 
