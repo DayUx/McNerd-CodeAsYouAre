@@ -3,7 +3,7 @@
 ![Code as you are](https://github.com/DayUx/McNerd-CodeAsYouAre/blob/main/src/main/resources/images/mcnurd.jpg)
 
 
-![Build](https://github.com/DayUx/CodeAsYouAre/workflows/Build/badge.svg)
+![Build](https://github.com/DayUx/McNerd-CodeAsYouAre/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
